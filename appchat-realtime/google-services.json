@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619474222824",
+    "project_id": "appchat-storage",
+    "storage_bucket": "appchat-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619474222824:android:254d78ee10f589bfe8135d",
+        "android_client_info": {
+          "package_name": "com.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvU6A8tCQJXDF8CDM5A5SsYwu2LwSrwR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
